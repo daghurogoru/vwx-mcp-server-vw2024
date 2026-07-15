@@ -1,0 +1,1 @@
+{"mcpServers":{"vwx-mcp-server-vw2024":{"command":"python","args":["server/vwx_mcp_server.py"],"cwd":"."}}}
